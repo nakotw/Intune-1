@@ -4,7 +4,7 @@
  
 .DESCRIPTION
     This script will get the Entra Sign in logs for Windows Sign ins 
-    The script then determine who has logged on to the device the most times in the last 30 days and set the Primary user to that user
+    The script then determine who has logged on to the device the most times in the last 30 days and set the Primary user to that device
     The script uses Ms Graph with MGGraph modules
         
 .EXAMPLE
